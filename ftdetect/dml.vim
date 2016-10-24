@@ -13,4 +13,5 @@
 "   limitations under the License.
 
 
-au BufRead,BufNewFile *.dml set filetype=Dml
+autocmd BufRead,BufNewFile *.dml set filetype=dml
+
